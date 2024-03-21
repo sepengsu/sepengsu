@@ -33,6 +33,41 @@ laboratory, along with graduate students. Developed a quality prediction model f
 Quality Prediction modeling  
 Make poster and presentation
 
+### Project 5: [Vision inspection system for clothing fabric based on image object segmentation algorithm]
+- Participated in a system development project to inspect fabric defects (stain, hole, dyeing) using a vision camera and deep
+learning as an undergraduate research student. Achieved Acc 95.31%, IOU 0.902, and Inference time 54FPS with the deep
+learning image object segmentation model U-net++ and ensemble and threshold algorithms
+- Role: Paper review  
+Code review  
+Image Data Collection  
+Data Labeling and Preprocessing  
+
+### Project 6: [Development of an anomaly detection algorithm based on
+multimodal learning for CNC tool wear recognition and monitoring](https://github.com/sepengsu/Smart_Factory)
+- For a capstone project, developed a CNC tool wear recognition and replacement notification algorithm by applying an
+ensemble model based on unsupervised and supervised learning, and a Rule-based model in stages. Unsupervised learning
+used clustering (Agglomerative method), ensemble (with anomaly detection and sampling techniques applied), a CNN
+classification model based on STFT images, and a Rule-based mode
+- Role: Paper review (RUL and Anomaly detection)  
+Code review (DAMP algorithm)  
+EDA (t-test, MFCC use)  
+Data Labeling and Preprocessing  
+Model Selection  
+Sampling Method (over and undersampling)  
+Model train and test
+
+### Project 7: [Reinforcement learning algorithm and gait simulation based on the SCONE program](https://github.com/sepengsu/winter_co_op)
+- As part of a CO-OP project, carried out a normal person's Gait simulation using the gait simulation program SCONE and
+reinforcement learning algorithms. The DEP(controller)-MPO(reinforcement learning) algorithm was used, and a PD controller
+was utilized to maintain the balance of the upper body. Additionally, by modifying the walking model to automatically
+maintain balance, performance was further improved
+- Role: Paper and Code review
+Coding and model Customize
+Model Selection
+Customize reward function and pd controller
+
+![image](https://github.com/sepengsu/sepengsu/assets/111292354/e9bd18ce-8d7a-4677-aa98-818fae983985)
+
 ## 📫 How to Reach Me
 - Email: na06219@g.skku.edu
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/seopengsu)
