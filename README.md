@@ -20,7 +20,7 @@
 - Technologies and tools used
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
+- Email: na06219@g.skku.edu
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/seopengsu)
 
 
