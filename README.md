@@ -1,25 +1,26 @@
-# 안녕하세요! 저는 [당신의 이름]입니다 👋
+# Hello! I'm [Seojaewon] 👋
 
-## 🛠️ 사용할 수 있는 스킬들
+## 🛠️ Skills
 
-### 프로그래밍 언어
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logoColor=white)
 
-### 디자인 / 엔지니어링 툴
+### Design / Engineering Tools
 ![Autodesk Inventor](https://img.shields.io/badge/Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
-## 🔥 내가 했던 프로젝트 목록
+## 🔥 Projects I've Worked On
 
-### 프로젝트 1: [프로젝트 이름](프로젝트 링크)
-- 프로젝트에 대한 간단한 설명
-- 사용된 기술 및 도구
+### Project 1: [Project Name](Project Link)
+- A brief description of the project
+- Technologies and tools used
 
-### 프로젝트 2: [프로젝트 이름](프로젝트 링크)
-- 프로젝트에 대한 간단한 설명
-- 사용된 기술 및 도구
+### Project 2: [Project Name](Project Link)
+- A brief description of the project
+- Technologies and tools used
 
-## 📫 연락 방법
-- 이메일: your.email@example.com
-- LinkedIn: [LinkedIn 프로필](LinkedIn 링크)
+## 📫 How to Reach Me
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/seopengsu)
+
 
