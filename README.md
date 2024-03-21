@@ -69,32 +69,34 @@ Customize reward function and pd controller
 ## ACTIVITY & AWARDS
 
 - **2021.01 ~ 2021.02**
-  - Encouragement Prize at the 1st Big Data/AI College Student Contest for Digital Innovation in the Shipbuilding/Maritime Industry
+  - <span style="color:skyblue;">Encouragement Prize</span> at the 1st Big Data/AI College Student Contest for Digital Innovation in the Shipbuilding/Maritime Industry
 
 - **2022.07 ~ 2022.07**
-  - Completed the SKKU-KISTI HPC:AI Summer School
+  - Completed the SKKU-KISTI <span style="color:skyblue;">HPC:AI Summer School</span>
 
 - **2022.12 ~ 2023.01**
-  - Monthly Dacon Machine Failure Diagnosis AI Contest TOP 4%
+  - Monthly Dacon Machine Failure Diagnosis AI Contest <span style="color:skyblue;">TOP 4%</span>
 
 - **2023.05 ~ 2023.05**
-  - Encouragement Prize at the Korea Economic Daily Intelligent Information SW Idea Contest.
+  - <span style="color:skyblue;">Encouragement Prize</span> at the Korea Economic Daily Intelligent Information SW Idea Contest.
 
 - **2023.05 ~ 2023.06**
-  - Grand Prize at the 2nd Performance Presentation of the Korea University Intelligent Information SW Academy 2023 (Awarded by the Director of the Information and Communication Planning Evaluation Institute)
+  - <span style="color:skyblue;">Grand Prize</span> at the 2nd Performance Presentation of the Korea University Intelligent Information SW Academy 2023 (Awarded by the Director of the Information and Communication Planning Evaluation Institute)
 
 - **2023.03 ~ 2023.06**
   - Completed the 2nd Term of the Korea University Intelligent Information SW Academy 2023.
 
 - **2023.07 ~ 2023.11**
-  - Excellence Prize at The 8th Precision Engineering (Hyper-Scale Artificial Intelligence and Smart & Green Precision Engineering Technology)
+  - <span style="color:skyblue;">Excellence Prize</span> at The 8th Precision Engineering (Hyper-Scale Artificial Intelligence and Smart & Green Precision Engineering Technology)
 
 - **2023.07 ~ 2023.12**
-  - Undergraduate researcher at SDML (Professor Sangwon Lee's Lab)
+  - <span style="color:skyblue;">Undergraduate researcher</span> at SDML (Professor Sangwon Lee's Lab)
 
 - **2023.12 ~ 2024.02**
-  - Rehabilitation-Biomechatronics Research Lab (Professor Jonghyun Kim's Lab) Co-op
-
+  - Rehabilitation-Biomechatronics Research Lab (Professor Jonghyun Kim's Lab) <span style="color:skyblue;">Co-op</span>
+  
+- **2023.12 ~ 2024.02**
+  - <span style="color:skyblue;">Undergraduate researcher</span> at RISE Lab (Professor Hyungpil Moon's Lab) 
 
 ## 📫 How to Reach Me
 - Email: na06219@g.skku.edu
