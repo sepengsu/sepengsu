@@ -40,7 +40,7 @@ laboratory, along with graduate students. Developed a quality prediction model f
 Quality Prediction modeling  
 Make poster and presentation
 
-### Project 5: [Vision inspection system for clothing fabric based on image object segmentation algorithm]
+### Project 5: **Vision inspection system for clothing fabric based on image object segmentation algorithm**
 - Participated in a system development project to inspect fabric defects (stain, hole, dyeing) using a vision camera and deep
 learning as an undergraduate research student. Achieved Acc 95.31%, IOU 0.902, and Inference time 54FPS with the deep
 learning image object segmentation model U-net++ and ensemble and threshold algorithms
