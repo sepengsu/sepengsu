@@ -66,7 +66,35 @@ Coding and model Customize
 Model Selection
 Customize reward function and pd controller
 
-![image](https://github.com/sepengsu/sepengsu/assets/111292354/e9bd18ce-8d7a-4677-aa98-818fae983985)
+## ACTIVITY & AWARDS
+
+- **2021.01 ~ 2021.02**
+  - Encouragement Prize at the 1st Big Data/AI College Student Contest for Digital Innovation in the Shipbuilding/Maritime Industry
+
+- **2022.07 ~ 2022.07**
+  - Completed the SKKU-KISTI HPC:AI Summer School
+
+- **2022.12 ~ 2023.01**
+  - Monthly Dacon Machine Failure Diagnosis AI Contest TOP 4%
+
+- **2023.05 ~ 2023.05**
+  - Encouragement Prize at the Korea Economic Daily Intelligent Information SW Idea Contest.
+
+- **2023.05 ~ 2023.06**
+  - Grand Prize at the 2nd Performance Presentation of the Korea University Intelligent Information SW Academy 2023 (Awarded by the Director of the Information and Communication Planning Evaluation Institute)
+
+- **2023.03 ~ 2023.06**
+  - Completed the 2nd Term of the Korea University Intelligent Information SW Academy 2023.
+
+- **2023.07 ~ 2023.11**
+  - Excellence Prize at The 8th Precision Engineering (Hyper-Scale Artificial Intelligence and Smart & Green Precision Engineering Technology)
+
+- **2023.07 ~ 2023.12**
+  - Undergraduate researcher at SDML (Professor Sangwon Lee's Lab)
+
+- **2023.12 ~ 2024.02**
+  - Rehabilitation-Biomechatronics Research Lab (Professor Jonghyun Kim's Lab) Co-op
+
 
 ## 📫 How to Reach Me
 - Email: na06219@g.skku.edu
