@@ -11,9 +11,10 @@
 
 ## 🔥 Projects I've Worked On
 
-### Project 1: [Project Name](Project Link)
-- A brief description of the project
-- Technologies and tools used
+### Project 1: [HiMSEN Engine Abnormality Detection Analysis](https://github.com/sepengsu/HiMSEN)
+- Based on the knowledge from the courses taken, preprocess the HiMSEN engine fault data, separate the data by mode and by four different systems, analyze it, and implement a fault diagnosis and cause system algorithm using ANN
+- Role: Understanding Data Characteristics (Temperature, Pressure)  
+        Data Preprocessing
 
 ### Project 2: [Project Name](Project Link)
 - A brief description of the project
