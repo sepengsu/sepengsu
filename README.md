@@ -4,10 +4,17 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+
+### Tools and Frameworks
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![CVAT](https://img.shields.io/badge/-CVAT-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### Design / Engineering Tools
 ![Autodesk Inventor](https://img.shields.io/badge/Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Autodesk Nastran](https://img.shields.io/badge/Nastran-FF3E00?style=for-the-badge&logo=autodesk&logoColor=white)
+
 
 ## 🔥 Projects I've Worked On
 
