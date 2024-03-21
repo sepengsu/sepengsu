@@ -25,9 +25,13 @@ of video. Used Yolo4Deepsort (Yolo4), SwinIR (Swin Transformer), and BLIP (vit-e
 - Role: Super-resolution (select model)
   Image-captioning (select model and finetuning)
 
-### Project 4: [Monthly Dacon Machine Failure Diagnosis AI Contest](Project Link)
-- A brief description of the project
-- Technologies and tools used
+### Project 4: [Development of an FDM process quality prediction model based on ANN and transfer learning for material response](Project Link)
+- Participated in the 8th Precision Engineering Creative Competition as an undergraduate researcher in Professor Sangwon Lee's
+laboratory, along with graduate students. Developed a quality prediction model for the FDM process for composite materials
+(ABS, PLA, PETG) based on ANN and transfer learning
+- Role: Data collection and preprocessing  
+Quality Prediction modeling  
+Make poster and presentation
 
 ## 📫 How to Reach Me
 - Email: na06219@g.skku.edu
