@@ -1,4 +1,4 @@
-# Hello! I'm [Seojaewon] 👋
+# Hello! I'm Seojaewon 👋
 
 ## 🛠️ Skills
 
