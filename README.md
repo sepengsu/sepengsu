@@ -49,8 +49,7 @@ Code review
 Image Data Collection  
 Data Labeling and Preprocessing  
 
-### Project 6: [Development of an anomaly detection algorithm based on
-multimodal learning for CNC tool wear recognition and monitoring](https://github.com/sepengsu/Smart_Factory)
+### Project 6: [Development of an anomaly detection algorithm based on multimodal learning for CNC tool wear recognition and monitoring](https://github.com/sepengsu/Smart_Factory)
 - For a capstone project, developed a CNC tool wear recognition and replacement notification algorithm by applying an
 ensemble model based on unsupervised and supervised learning, and a Rule-based model in stages. Unsupervised learning
 used clustering (Agglomerative method), ensemble (with anomaly detection and sampling techniques applied), a CNN
