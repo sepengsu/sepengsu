@@ -32,7 +32,7 @@ of video. Used Yolo4Deepsort (Yolo4), SwinIR (Swin Transformer), and BLIP (vit-e
 - Role: Super-resolution (select model)
   Image-captioning (select model and finetuning)
 
-### Project 4: [Development of an FDM process quality prediction model based on ANN and transfer learning for material response](Project Link)
+### Project 4: [Development of an FDM process quality prediction model based on ANN and transfer learning for material response](https://github.com/sepengsu/Creative_Competition/tree/main)
 - Participated in the 8th Precision Engineering Creative Competition as an undergraduate researcher in Professor Sangwon Lee's
 laboratory, along with graduate students. Developed a quality prediction model for the FDM process for composite materials
 (ABS, PLA, PETG) based on ANN and transfer learning
