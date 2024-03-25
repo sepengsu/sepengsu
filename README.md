@@ -104,6 +104,9 @@ Customize reward function and pd controller
 - **2023.12 ~ 2024.02**
   - **Undergraduate researcher** at RISE Lab (Professor Hyungpil Moon's Lab) 
 
+## PORTFOLIO
+- Kor: [포트폴리오]()
+- Eng: [PORTFOLITO]()
 ## 📫 How to Reach Me
 - Email: na06219@g.skku.edu
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/seopengsu)
