@@ -19,6 +19,38 @@
 - Kor: [포트폴리오](https://github.com/sepengsu/sepengsu/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 - Eng: [Portfolio](https://github.com/sepengsu/sepengsu/blob/main/PORTFOLIO.pdf)
 
+## ACTIVITY & AWARDS
+
+- **2021.01 ~ 2021.02**
+  - **Encouragement Prize** at the 1st Big Data/AI College Student Contest for Digital Innovation in the Shipbuilding/Maritime Industry
+
+- **2022.07 ~ 2022.07**
+  - Completed the SKKU-KISTI **HPC:AI Summer School**
+
+- **2022.12 ~ 2023.01**
+  - Monthly Dacon Machine Failure Diagnosis AI Contest **TOP 4%**
+
+- **2023.05 ~ 2023.05**
+  - **Encouragement Prize** at the Korea Economic Daily Intelligent Information SW Idea Contest.
+
+- **2023.05 ~ 2023.06**
+  - **Grand Prize** at the 2nd Performance Presentation of the Korea University Intelligent Information SW Academy 2023 (Awarded by the Director of the Information and Communication Planning Evaluation Institute)
+
+- **2023.03 ~ 2023.06**
+  - Completed the 2nd Term of the Korea University Intelligent Information **SW Academy** 2023.
+
+- **2023.07 ~ 2023.11**
+  - **Excellence Prize** at The 8th Precision Engineering (Hyper-Scale Artificial Intelligence and Smart & Green Precision Engineering Technology)
+
+- **2023.07 ~ 2023.12**
+  - **Undergraduate researcher** at SDML (Professor Sangwon Lee's Lab)
+
+- **2023.12 ~ 2024.02**
+  - Rehabilitation-Biomechatronics Research Lab (Professor Jonghyun Kim's Lab) **Co-op**
+  
+- **2023.12 ~ 2024.02**
+  - **Undergraduate researcher** at RISE Lab (Professor Hyungpil Moon's Lab) 
+
 ## 🔥 Projects I've Worked On
 
 ### Project 1: [HiMSEN Engine Abnormality Detection Analysis](https://github.com/sepengsu/HiMSEN)
@@ -74,39 +106,6 @@ maintain balance, performance was further improved
 Coding and model Customize
 Model Selection
 Customize reward function and pd controller
-
-## ACTIVITY & AWARDS
-
-- **2021.01 ~ 2021.02**
-  - **Encouragement Prize** at the 1st Big Data/AI College Student Contest for Digital Innovation in the Shipbuilding/Maritime Industry
-
-- **2022.07 ~ 2022.07**
-  - Completed the SKKU-KISTI **HPC:AI Summer School**
-
-- **2022.12 ~ 2023.01**
-  - Monthly Dacon Machine Failure Diagnosis AI Contest **TOP 4%**
-
-- **2023.05 ~ 2023.05**
-  - **Encouragement Prize** at the Korea Economic Daily Intelligent Information SW Idea Contest.
-
-- **2023.05 ~ 2023.06**
-  - **Grand Prize** at the 2nd Performance Presentation of the Korea University Intelligent Information SW Academy 2023 (Awarded by the Director of the Information and Communication Planning Evaluation Institute)
-
-- **2023.03 ~ 2023.06**
-  - Completed the 2nd Term of the Korea University Intelligent Information **SW Academy** 2023.
-
-- **2023.07 ~ 2023.11**
-  - **Excellence Prize** at The 8th Precision Engineering (Hyper-Scale Artificial Intelligence and Smart & Green Precision Engineering Technology)
-
-- **2023.07 ~ 2023.12**
-  - **Undergraduate researcher** at SDML (Professor Sangwon Lee's Lab)
-
-- **2023.12 ~ 2024.02**
-  - Rehabilitation-Biomechatronics Research Lab (Professor Jonghyun Kim's Lab) **Co-op**
-  
-- **2023.12 ~ 2024.02**
-  - **Undergraduate researcher** at RISE Lab (Professor Hyungpil Moon's Lab) 
-
 ## 📫 How to Reach Me
 - Email: na06219@g.skku.edu
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/seopengsu)
