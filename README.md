@@ -48,7 +48,7 @@
 - **2023.12 ~ 2024.02**
   - Rehabilitation-Biomechatronics Research Lab (Professor Jonghyun Kim's Lab) **Co-op**
   
-- **2023.12 ~ 2024.02**
+- **2024.03 ~ 2024.06**
   - **Undergraduate researcher** at RISE Lab (Professor Hyungpil Moon's Lab) 
 
 ## 🔥 Projects I've Worked On
