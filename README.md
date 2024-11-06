@@ -108,6 +108,6 @@ Model Selection
 Customize reward function and pd controller
 ## 📫 How to Reach Me
 - Email: na06219@g.skku.edu
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/seopengsu)
+- LinkedIn: [Link](www.linkedin.com/in/seopengsu)
 
 
