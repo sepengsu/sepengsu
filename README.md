@@ -1,6 +1,7 @@
 # 🏆 Seojaewon - Portfolio
 
-## 👨‍💻 About Me  [**한국어**](https://github.com/sepengsu/README_kr.md)
+## 👨‍💻 About Me  [**한국어**](https://github.com/sepengsu/sepengsu/edit/main/README_kr.md)
+
 
 - **Name**: 서재원 (Jae Won Seo)
 - **Date of Birth**: 1999.04.26
