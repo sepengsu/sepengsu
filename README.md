@@ -1,113 +1,110 @@
-# Hello! I'm Seojaewon 👋
+# 🏆 Seojaewon - Portfolio
+
+## 👨‍💻 About Me
+
+- **Name**: 서재원 (Jae Won Seo)
+- **Date of Birth**: 1999.04.26
+- **Education**: SKKU Univ. (2019.02~ , 휴학 중)
+- **Email**: na06219@g.skku.edu
+- **GitHub**: [github.com/sepengsu](https://github.com/sepengsu)
+- **LinkedIn**: [linkedin.com/in/seopengsu](https://www.linkedin.com/in/seopengsu/)
+
+---
 
 ## 🛠️ Skills
 
-### Programming Languages
+### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 
-### Tools and Frameworks
+### **Tools & Frameworks**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![CVAT](https://img.shields.io/badge/-CVAT-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### Design / Engineering Tools
+### **Engineering & Design Tools**
 ![Autodesk Inventor](https://img.shields.io/badge/Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Autodesk Nastran](https://img.shields.io/badge/Nastran-FF3E00?style=for-the-badge&logo=autodesk&logoColor=white)
 
+---
+
 ## 📁 Portfolio
-- Kor: [포트폴리오](https://github.com/sepengsu/sepengsu/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
-- Eng: [Portfolio](https://github.com/sepengsu/sepengsu/blob/main/PORTFOLIO.pdf)
+- **Korean**: [포트폴리오](https://github.com/sepengsu/sepengsu/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+- **English**: [Portfolio](https://github.com/sepengsu/sepengsu/blob/main/PORTFOLIO.pdf)
 
-## ACTIVITY & AWARDS
+---
 
-- **2021.01 ~ 2021.02**
-  - **Encouragement Prize** at the 1st Big Data/AI College Student Contest for Digital Innovation in the Shipbuilding/Maritime Industry
+## 🏅 Activity & Awards
 
-- **2022.07 ~ 2022.07**
-  - Completed the SKKU-KISTI **HPC:AI Summer School**
+### **Academic & Research Activities**
+- 2022.07 ~ 2022.07: **HPC:AI Summer School** (SKKU-KISTI)
+- 2023.03 ~ 2023.06: **Korea University Intelligent Information SW Academy 2nd Term**
+- 2023.07 ~ 2023.12: **Undergraduate Researcher** at SDML (Prof. Sangwon Lee’s Lab)
+- 2023.12 ~ 2024.02: **Co-op Researcher** at Rehabilitation-Biomechatronics Research Lab (Prof. Jonghyun Kim’s Lab)
+- 2024.03 ~ 2024.06: **Undergraduate Researcher** at RISE Lab (Prof. Hyungpil Moon’s Lab)
 
-- **2022.12 ~ 2023.01**
-  - Monthly Dacon Machine Failure Diagnosis AI Contest **TOP 4%**
+### **Awards**
+- **Encouragement Prize**, 1st Big Data/AI College Student Contest for Shipbuilding & Maritime Industry (2021.02.25)
+- **TOP 4%**, Monthly Dacon Machine Failure Diagnosis AI Contest (2023.01.31)
+- **Encouragement Prize**, Korea Economic Daily Intelligent Information SW Idea Contest (2023.05.04)
+- **Grand Prize**, Korea University Intelligent Information SW Academy Performance Presentation (2023.06)
+- **Excellence Prize**, 8th Precision Engineering Creative Competition (2023.10.29)
 
-- **2023.05 ~ 2023.05**
-  - **Encouragement Prize** at the Korea Economic Daily Intelligent Information SW Idea Contest.
+---
 
-- **2023.05 ~ 2023.06**
-  - **Grand Prize** at the 2nd Performance Presentation of the Korea University Intelligent Information SW Academy 2023 (Awarded by the Director of the Information and Communication Planning Evaluation Institute)
+## 🔥 Projects
 
-- **2023.03 ~ 2023.06**
-  - Completed the 2nd Term of the Korea University Intelligent Information **SW Academy** 2023.
+### [🔹 HiMSEN Engine Abnormality Detection Analysis](https://github.com/sepengsu/HiMSEN)
+- Developed an engine fault diagnosis system using **Artificial Neural Networks (ANN)**.
+- **Role**: Data Preprocessing, Feature Engineering
 
-- **2023.07 ~ 2023.11**
-  - **Excellence Prize** at The 8th Precision Engineering (Hyper-Scale Artificial Intelligence and Smart & Green Precision Engineering Technology)
+### [🔹 Monthly Dacon Machine Failure Diagnosis AI Contest](https://github.com/sepengsu/DACON-machine-fault-diagnosis)
+- Built an anomaly detection model using **Isolation Forest, OCSVM, and AutoEncoder**.
+- **Role**: Feature Extraction, Model Implementation
 
-- **2023.07 ~ 2023.12**
-  - **Undergraduate researcher** at SDML (Professor Sangwon Lee's Lab)
+### [🔹 TOC in CCTV](https://github.com/INISW/INISW6)
+- Implemented a multi-stage model for **Tracking, Super-Resolution, and Image-Captioning**.
+- **Role**: Model Selection, Fine-tuning
 
-- **2023.12 ~ 2024.02**
-  - Rehabilitation-Biomechatronics Research Lab (Professor Jonghyun Kim's Lab) **Co-op**
-  
-- **2024.03 ~ 2024.06**
-  - **Undergraduate researcher** at RISE Lab (Professor Hyungpil Moon's Lab) 
+### [🔹 FDM Process Quality Prediction](https://github.com/sepengsu/Creative_Competition)
+- Developed a quality prediction model using **ANN and Transfer Learning**.
+- **Role**: Data Collection, Model Training
 
-## 🔥 Projects I've Worked On
+### [🔹 CNC Tool Wear Recognition](https://github.com/sepengsu/Smart_Factory)
+- Created an anomaly detection system for **CNC tool wear monitoring**.
+- **Role**: EDA, Model Selection, Training
 
-### Project 1: [HiMSEN Engine Abnormality Detection Analysis](https://github.com/sepengsu/HiMSEN)
-- Based on the knowledge from the courses taken, preprocess the HiMSEN engine fault data, separate the data by mode and by four different systems, analyze it, and implement a fault diagnosis and cause system algorithm using ANN
-- Role: Understanding Data Characteristics (Temperature, Pressure)  
-        Data Preprocessing
+### [🔹 Gait Simulation using Reinforcement Learning](https://github.com/sepengsu/winter_co_op)
+- Simulated human gait with **SCONE & RL algorithms**.
+- **Role**: Coding, Reward Function Customization
 
-### Project 2: [Monthly Dacon Machine Failure Diagnosis AI Contest](https://github.com/sepengsu/DACON-machine-fault-diagnosis)
-- Participated in a project individually, extracted statistical features from sound in both time and frequency domains, preprocessed the data after separating it by mode (0,2), and implemented a machine fault diagnosis algorithm by ensembling IF (Isolation Forest), OCSVM (One-Class SVM), and AE (AutoEncoder)
+### [🔹 ROS-Based Autonomous Driving System](https://github.com/sepengsu/24_rise_coop)
+- Developed an **autonomous robot** using **ROS1 Noetic/Kinetic & SLAM algorithms**.
+- **Role**: SLAM Implementation, Camera Calibration
 
-### Project 3: [TOC in CCTV](https://github.com/INISW/INISW6)
-- A project implemented as a multi-stage model of Tracking + Super-Resolution + image-captioning with the goal of text conversion
-of video. Used Yolo4Deepsort (Yolo4), SwinIR (Swin Transformer), and BLIP (vit-encoder + cross attention + LM-decoder) respectively.
-- Role: Super-resolution (select model)
-  Image-captioning (select model and finetuning)
+### [🔹 Neuromorphic Federated Learning for Predictive Maintenance](https://github.com/sepengsu/ANN-to_SNN)
+- Developed **Spiking Neural Networks (SNN) and Variational Autoencoder (VAE)** for industrial predictive maintenance.
+- **Role**: Model Implementation, System Development
 
-### Project 4: [Development of an FDM process quality prediction model based on ANN and transfer learning for material response](https://github.com/sepengsu/Creative_Competition/tree/main)
-- Participated in the 8th Precision Engineering Creative Competition as an undergraduate researcher in Professor Sangwon Lee's
-laboratory, along with graduate students. Developed a quality prediction model for the FDM process for composite materials
-(ABS, PLA, PETG) based on ANN and transfer learning
-- Role: Data collection and preprocessing  
-Quality Prediction modeling  
-Make poster and presentation
+### [🔹 Sentiment Analysis & Image Generation App](https://github.com/sepengsu/googleMLB5/tree/main/project1)
+- Built a **Gemma2-based Sentiment Analysis Model** combined with **Stable Diffusion for Image Generation**.
+- **Role**: Model Implementation, UI Integration
 
-### Project 5: **Vision inspection system for clothing fabric based on image object segmentation algorithm**
-- Participated in a system development project to inspect fabric defects (stain, hole, dyeing) using a vision camera and deep
-learning as an undergraduate research student. Achieved Acc 95.31%, IOU 0.902, and Inference time 54FPS with the deep
-learning image object segmentation model U-net++ and ensemble and threshold algorithms
-- Role: Paper review  
-Code review  
-Image Data Collection  
-Data Labeling and Preprocessing  
+### [🔹 Doosan Robotics ROKEY Bootcamp Projects](https://github.com/sepengsu/rokey_poject)
+- Led multiple **ROS2 & Vision-based** robotics projects.
+- **Role**: Team Lead, System Implementation
 
-### Project 6: [Development of an anomaly detection algorithm based on multimodal learning for CNC tool wear recognition and monitoring](https://github.com/sepengsu/Smart_Factory)
-- For a capstone project, developed a CNC tool wear recognition and replacement notification algorithm by applying an
-ensemble model based on unsupervised and supervised learning, and a Rule-based model in stages. Unsupervised learning
-used clustering (Agglomerative method), ensemble (with anomaly detection and sampling techniques applied), a CNN
-classification model based on STFT images, and a Rule-based mode
-- Role: Paper review (RUL and Anomaly detection)  
-Code review (DAMP algorithm)  
-EDA (t-test, MFCC use)  
-Data Labeling and Preprocessing  
-Model Selection  
-Sampling Method (over and undersampling)  
-Model train and test
+---
 
-### Project 7: [Reinforcement learning algorithm and gait simulation based on the SCONE program](https://github.com/sepengsu/winter_co_op)
-- As part of a CO-OP project, carried out a normal person's Gait simulation using the gait simulation program SCONE and
-reinforcement learning algorithms. The DEP(controller)-MPO(reinforcement learning) algorithm was used, and a PD controller
-was utilized to maintain the balance of the upper body. Additionally, by modifying the walking model to automatically
-maintain balance, performance was further improved
-- Role: Paper and Code review
-Coding and model Customize
-Model Selection
-Customize reward function and pd controller
-## 📫 How to Reach Me
-- Email: na06219@g.skku.edu
-- LinkedIn: [Link](www.linkedin.com/in/seopengsu)
+## 🎓 Certifications
+- **Data Analysis Semi-Professional (ADsP)** (2022.11.25)
+- **AICE - ASSOCIATE** (2023.06.19)
+- **TOPA Level 2** (2023.10.29)
+- **Big Data Analyst** (2024.12.20)
 
+---
 
+## 📫 Contact
+📧 **Email**: na06219@g.skku.edu  
+🔗 **LinkedIn**: [linkedin.com/in/seopengsu](https://www.linkedin.com/in/seopengsu/)  
+🐙 **GitHub**: [github.com/sepengsu](https://github.com/sepengsu/)  
