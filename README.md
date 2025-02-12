@@ -1,6 +1,6 @@
 # 🏆 Seojaewon - Portfolio
 
-## 👨‍💻 About Me  [**한국어**](https://github.com/sepengsu/sepengsu/main/README_kr.md)
+## 👨‍💻 About Me  [**한국어**](https://github.com/sepengsu/sepengsu/blob/main/README_kr.md)
 
 
 - **Name**: 서재원 (Jae Won Seo)
