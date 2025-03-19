@@ -1,6 +1,6 @@
 # 🏆 서재원 - 포트폴리오
 
-## 👨‍💻 소개
+## 👨‍💻 소개 [**ENG**](https://github.com/sepengsu/sepengsu/blob/main/README_eng.md)
 
 - **이름**: 서재원 (Jae Won Seo)
 - **생년월일**: 1999.04.26
