@@ -1,10 +1,10 @@
 # 🏆 서재원 - 포트폴리오
 
-## 👨‍💻 소개 **IF YOU WANT IN ENG**[**ENG**](https://github.com/sepengsu/sepengsu/blob/main/README_kr.md)
+## 👨‍💻 소개 [**IF YOU WANT IN ENG**](https://github.com/sepengsu/sepengsu/blob/main/README_kr.md)
 
 - **이름**: 서재원 (Jae Won Seo)
 - **생년월일**: 1999.04.26
-- **학력**: 성균관대학교 (2019.02~ , 휴학 중)
+- **학력**: 성균관대학교 (2019.02~ , 재학 중)
 - **이메일**: na06219@g.skku.edu
 - **GitHub**: [github.com/sepengsu](https://github.com/sepengsu)
 - **LinkedIn**: [linkedin.com/in/seopengsu](https://www.linkedin.com/in/seopengsu/)
