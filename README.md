@@ -82,27 +82,27 @@
 ## 🔥 프로젝트
 
 ### 🔹 [HiMSEN 엔진 이상 감지 분석](https://github.com/sepengsu/HiMSEN)
-- **설명**: HiMSEN 엔진의 고장 데이터를 전처리하고 시스템별 이상 진단을 위한 ANN 기반 분류 모델 개발
+- HiMSEN 엔진의 고장 데이터를 전처리하고 시스템별 이상 진단을 위한 ANN 기반 분류 모델 개발
 - **역할**: 데이터 전처리, 시스템 구분, 고장 진단 모델 구현
 
 ### 🔹 [월간 데이콘 기계 고장 진단 AI 경진대회](https://github.com/sepengsu/DACON-machine-fault-diagnosis)
-- **설명**: 주파수 도메인 기반 특징 추출 후 IF, OCSVM, AE 기반 앙상블 모델로 고장 탐지
+- 주파수 도메인 기반 특징 추출 후 IF, OCSVM, AE 기반 앙상블 모델로 고장 탐지
 - **역할**: EDA, 이상 탐지 알고리즘 설계 및 구현
 
 ### 🔹 [TOC in CCTV (영상 텍스트화 모델)](https://github.com/INISW/INISW6)
-- **설명**: YOLO4+DeepSort 기반 객체 트래킹, SwinIR로 초해상도 변환, BLIP로 이미지 캡셔닝
+- YOLO4+DeepSort 기반 객체 트래킹, SwinIR로 초해상도 변환, BLIP로 이미지 캡셔닝
 - **역할**: Super-resolution 및 이미지 캡셔닝 모델 선정 및 튜닝
 
 ### 🔹 [ANN 및 전이학습 기반 FDM 공정 품질예측](https://github.com/sepengsu/Creative_Competition)
-- **설명**: FDM 공정에서 소재 종류에 따른 품질 예측을 위한 ANN 및 전이학습 기반 모델 개발
+- FDM 공정에서 소재 종류에 따른 품질 예측을 위한 ANN 및 전이학습 기반 모델 개발
 - **역할**: 데이터 수집 및 품질 예측 모델 설계
 
 ### 🔹 [이미지 객체 분할 기반 원단 결함 검사](https://github.com/sepengsu/fabric_inspection)
-- **설명**: U-Net++ 및 threshold 기반 알고리즘으로 원단의 stain, hole, dyeing 결함 탐지
+- U-Net++ 및 threshold 기반 알고리즘으로 원단의 stain, hole, dyeing 결함 탐지
 - **역할**: 데이터 라벨링, 모델 설계 및 코드 리뷰
 
 ### 🔹 [CNC 툴 마모 인식 및 모니터링 (멀티모달)](https://github.com/sepengsu/sepengsu)
-- **설명**: 비지도/지도/Rule 기반 멀티모달 이상 탐지 알고리즘으로 마모 상태 분류
+- 비지도/지도/Rule 기반 멀티모달 이상 탐지 알고리즘으로 마모 상태 분류
 - **역할**: EDA, 모델 비교 실험, 이상 탐지 알고리즘 개발
 
 ### 🔹 [강화학습 기반 보행 시뮬레이션 (SCONE)](https://github.com/sepengsu/winter_co_op)
@@ -110,15 +110,15 @@
 - **역할**: 코드 커스터마이징, 강화학습 보상 함수 설계
 
 ### 🔹 [ROS1 기반 Turtlebot3 SLAM 자율주행](https://github.com/sepengsu/24_rise_coop)
-- **설명**: Realsense depth camera 기반 Vision/LiDAR SLAM 및 자율 주행 맵 구성
+- Realsense depth camera 기반 Vision/LiDAR SLAM 및 자율 주행 맵 구성
 - **역할**: 센서 세팅, 맵 제작, SLAM 알고리즘 적용
 
 ### 🔹 [공정설비 예지보전을 위한 뉴로모픽 연합학습](https://github.com/sepengsu/ANN-to_SNN)
-- **설명**: Fast-SNN 및 VAE를 활용한 예지 보전용 에너지 효율 모델 설계
+- Fast-SNN 및 VAE를 활용한 예지 보전용 에너지 효율 모델 설계
 - **역할**: 논문 리뷰, 모델 구현 및 시스템 통합
 
 ### 🔹 [감정 분석 및 이미지 생성 애플리케이션](https://github.com/sepengsu/googleMLB5/tree/main/project1)
-- **설명**: Gemma2 기반 감정 분석 + Stable Diffusion 기반 힐링 이미지 생성
+- Gemma2 기반 감정 분석 + Stable Diffusion 기반 힐링 이미지 생성
 - **역할**: 모델 학습, 프론트 통합 및 시스템 구현
 
 ### 🔹 [두산로보틱스 ROKEY 부트캠프 프로젝트 모음](https://github.com/sepengsu/rokey_poject)
