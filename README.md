@@ -3,7 +3,6 @@
 ## 👨‍💻 소개 [**English**](https://github.com/sepengsu/sepengsu/blob/main/README_eng.md)
 
 - **이름**: 서재원 (Jae Won Seo)  
-- **생년월일**: 1999.04.26  
 - **학력**: 성균관대학교 (2019.02~ , 재학 중)  
 - **이메일**: na06219@g.skku.edu  
 - **GitHub**: [github.com/sepengsu](https://github.com/sepengsu)  
