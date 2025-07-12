@@ -23,13 +23,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=artstation&logoColor=white)
-![BLIP](https://img.shields.io/badge/BLIP-A020F0?style=for-the-badge)
-![VAE](https://img.shields.io/badge/VAE-006699?style=for-the-badge)
-![SNN](https://img.shields.io/badge/SNN-FF5733?style=for-the-badge)
-![Fast-SNN](https://img.shields.io/badge/Fast--SNN-FF6F00?style=for-the-badge)
-![AutoEncoder](https://img.shields.io/badge/AutoEncoder-2C3539?style=for-the-badge)
-![Gemma2](https://img.shields.io/badge/Gemma2-6200EA?style=for-the-badge)
-![DEP-RL](https://img.shields.io/badge/DEP--RL-007ACC?style=for-the-badge)
 
 ### **도구 & 시뮬레이션**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -43,7 +36,6 @@
 ![Realsense](https://img.shields.io/badge/Realsense-0071C5?style=for-the-badge)
 ![Turtlebot3](https://img.shields.io/badge/Turtlebot3-00ADEF?style=for-the-badge)
 ![Turtlebot4](https://img.shields.io/badge/Turtlebot4-1E88E5?style=for-the-badge)
-![Nav2](https://img.shields.io/badge/Nav2-1976D2?style=for-the-badge)
 ![Doosan SDK](https://img.shields.io/badge/Doosan_Robotics_SDK-004C97?style=for-the-badge)
 
 ### **엔지니어링 & 디자인 도구**
