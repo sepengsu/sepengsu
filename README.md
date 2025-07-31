@@ -33,9 +33,6 @@
 ### **로봇 시스템**
 ![ROS1](https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS2 Humble](https://img.shields.io/badge/ROS2_Humble-0D47A1?style=for-the-badge)
-![Realsense](https://img.shields.io/badge/Realsense-0071C5?style=for-the-badge)
-![Turtlebot3](https://img.shields.io/badge/Turtlebot3-00ADEF?style=for-the-badge)
-![Turtlebot4](https://img.shields.io/badge/Turtlebot4-1E88E5?style=for-the-badge)
 ![Doosan SDK](https://img.shields.io/badge/Doosan_Robotics_SDK-004C97?style=for-the-badge)
 
 ### **엔지니어링 & 디자인 도구**
